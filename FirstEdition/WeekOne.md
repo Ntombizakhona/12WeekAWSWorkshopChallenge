@@ -93,3 +93,14 @@ Introduction to the 12 Week AWS Challenge
 ## Practical
 Creating a Personal AWS Account.
 
+
+# The Original
+
+**Blog:** [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona)
+<br>
+**Article Link:** [Introduction](https://ntombizakhona.medium.com/12-weeks-aws-workshops-challenge-267dbd668df3)
+<br>
+Originally Published by [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona) 
+<br>
+**20 November 2023**
+
