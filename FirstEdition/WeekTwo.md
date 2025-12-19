@@ -120,3 +120,12 @@ Once again, remember to secure and protect your Root User account, by enabling M
 Introduction to AWS Identity & Access Management
 ## Practical
 Creating an IAM User & Enabling Multifactor Authentication.
+
+# The Original
+
+**Blog:** [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona)
+<br>
+**Article Link:** [Identity And Access Management](https://ntombizakhona.medium.com/12-weeks-aws-workshop-challenge-92ace09800a3)
+Originally Published by [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona) 
+<br>
+**21 November 2023**
