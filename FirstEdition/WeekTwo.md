@@ -126,6 +126,7 @@ Creating an IAM User & Enabling Multifactor Authentication.
 **Blog:** [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona)
 <br>
 **Article Link:** [Identity And Access Management](https://ntombizakhona.medium.com/12-weeks-aws-workshop-challenge-92ace09800a3)
+<br>
 Originally Published by [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona) 
 <br>
 **21 November 2023**
