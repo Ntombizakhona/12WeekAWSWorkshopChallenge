@@ -203,3 +203,14 @@ Introduction to Containers, Container Orchestration and Amazon Elastic Container
 ### Practical
 
 Launching WordPress using an AWS Elastic Container Service — Fargate Launch Type.
+
+# The Original
+
+**Blog:** [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona)
+<br>
+**Article Link:** [Containers](https://ntombizakhona.medium.com/12-weeks-aws-workshop-challenge-ab2f61db68f4)
+<br>
+Originally Published by [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona)
+<br>
+**31 January 2024**
+
