@@ -149,8 +149,6 @@ Teaching is the ultimate test of understanding — when you can explain why Even
 
 _The AWS community isn’t just a support system; it’s an accelerator that turns individual learning into collective wisdom._
 
-![captionless image](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qSM0B_VCjthuKgYknr7fJg@2x.jpeg)
-
 # The Original
 
 **Blog:** [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona)
