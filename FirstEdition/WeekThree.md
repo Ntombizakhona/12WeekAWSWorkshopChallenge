@@ -218,7 +218,7 @@ Congratulations, you have successfully created two subnets
 
 **15.** Target: **Internet gateway.**
 
-**16.**Choose **myInternetGateway.**
+**16.** Choose **myInternetGateway.**
 
 ## Create Security Group
 **1.** Navigate to the left side of the page, and click on **Security groups** underneath **Security.**
@@ -324,18 +324,29 @@ Congratulations, you have successfully created two subnets
 
 ## Connect to the Internet from the Public Instance
 **1.** Check **myPublicServer** and click **Connect.**
+
 **2.** Select **EC2 Instance Connect.**
+
 **3.** Click: **Connect using EC2 Instance Connect.**
+
 **4.** Username: **ec2-user.**
+
 **5.** Click **Connect.** This should launch new page in the browser, and establish a new connection.
+
 **6.** Type: **ping google.com** and press enter. As this is a public instance, you will receive a response.
+
 **7.** Navigate back to your instances.
 
 ## Connect to the Internet from the Private Instance
 **1.** Check **myPrivateServer** and click **Connect.**
+
 **2.** Select **EC2 Instance Connect.**
+
 **3.** Click: Connect using EC2 Instance Connect.
-**4.** You receive the following error or warning: "**The instance does not have a public IPv4 address.** To connect using the EC2 Instance Connect browser-based client, the instance must have a public IPv4 address."
+
+**4.** You receive the following error or warning: 
+
+"**The instance does not have a public IPv4 address.** To connect using the EC2 Instance Connect browser-based client, the instance must have a public IPv4 address."
 
 Therefore, the Private Instance (**myPrivate Server**) does not traverse the internet because it doesn't have a public IP address. There will be no traffic coming in or going, and remember, we launched **myPrivateServer** in a Private Subnet, and the Route Table does not have an Internet Gateway nor a NAT Gateway attached that would allow it to connect to the internet.
 
