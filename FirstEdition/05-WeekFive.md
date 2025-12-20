@@ -214,3 +214,14 @@ Practical
 ---------
 
 Creating an Amazon DynamoDB Table, Creating Items and Querying It.
+
+# The Original
+
+**Blog:** [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona)
+<br>
+**Article Link:** [Databases](https://ntombizakhona.medium.com/12-week-aws-workshop-challenge-04f188468165)
+<br>
+Originally Published by [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona) 
+<br>
+**25 Janaury 2024**
+
