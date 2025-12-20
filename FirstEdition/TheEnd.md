@@ -22,3 +22,14 @@ I would like to congratulate Paula Ali Wakabi, Chi Che, Prasad Rao, and the othe
 It was exactly what I needed.
 
 The sessions were delivered on time, seamlessly, with no hiccups. Seeing them week after week made me appreciate the process, loyalty and commitment that comes with running an AWS User Group and I wish them success in all their future endeavors!
+
+# The Original
+
+**Blog:** [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona)
+<br>
+**Article Link:** [The End](https://ntombizakhona.medium.com/12-weeks-aws-workshop-challenge-01248f7e676b)
+<br>
+Originally Published by [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona) 
+<br>
+**08 February 2024**
+
