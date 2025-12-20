@@ -1,3 +1,6 @@
+_Week One_
+# Introduction
+
 The AWS User Group Yaoundé (YDE) led by AWS Community Builders Paula Ali Wakabi ft Chi Che, started a [#12WeekAWSWorkshopChallenge](https://12weeksworkshops.com/) on the 7th of October 2023 which will end on the 23rd of December. You know what this means? It means that we will be getting enhanced knowledge and more skills for the holidays, and enter 2024 with more confidence in our Cloud Skills. A perfect 12 Weeks if you ask me!
 
 After each video, we are encouraged to write a blog post in order to improve or develop Content Creation, Technical Writing Skills, and Documentation… so that’s what I’m doing.
