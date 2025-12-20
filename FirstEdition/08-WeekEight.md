@@ -215,3 +215,14 @@ Introduction to Serverless and AWS Lambda.
 ### Practical
 
 Creating an AWS Lambda Function that responds to Amazon S3 Object Puts and Deletes.
+
+# The Original
+
+**Blog:** [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona)
+<br>
+**Article Link:** [Serverless](https://ntombizakhona.medium.com/12-weeks-aws-workshop-challenge-8f648fed7ec7)
+<br>
+Originally Published by [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona) 
+<br>
+**01 February 2024**
+
