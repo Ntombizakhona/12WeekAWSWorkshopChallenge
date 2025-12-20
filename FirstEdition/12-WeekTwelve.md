@@ -52,3 +52,13 @@ Introduction to Observability Tools on AWS.
 ### Practical
 
 Viewing Observability Tools on the AWS Management Console.
+
+# The Original
+
+**Blog:** [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona)
+<br>
+**Article Link:** [Observability](https://ntombizakhona.medium.com/12-weeks-aws-workshop-challenge-b02f79e1c3c4)
+<br>
+Originally Published by [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona) 
+<br>
+**08 February 2024**
