@@ -1,3 +1,6 @@
+_Week 2_
+# Identity And Access Management (IAM)
+
 Identity And Access Management (IAM), is an Authentication and Authorization service. 
 
 **Authentication** verifies who you are. 
