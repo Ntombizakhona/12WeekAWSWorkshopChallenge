@@ -208,3 +208,14 @@ Introduction to AWS CloudFormation.
 ### Practical
 
 Launching resources using a sample AWS CloudFormation Template.
+
+# The Original
+
+**Blog:** [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona)
+<br>
+**Article Link:** [Infrastrucuture As Code](https://ntombizakhona.medium.com/12-weeks-aws-workshop-challenge-2444cf03564d)
+<br>
+Originally Published by [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona) 
+<br>
+**27 January 2024**
+
