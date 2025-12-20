@@ -387,3 +387,14 @@ Resources for Further Learning
 **Blog Post by Aram Koukia**: [Introduction to Amazon OpenSearch](https://medium.com/@aramkoukia/introduction-to-amazon-opensearch-a3c111f61123)
 
 **Blog Post by Jon Bonso (Tutorials Dojo):** [Amazon OpenSearch Service Cheat Sheet](https://tutorialsdojo.com/amazon-opensearch-service/)
+
+# The Original
+
+**Blog:** [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona)
+<br>
+**Article Link:** [Analytics](https://ntombizakhona.medium.com/12-weeks-aws-workshop-challenge-f72f7eee0002)
+<br>
+Originally Published by [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona) 
+<br>
+**06 February 2024**
+
