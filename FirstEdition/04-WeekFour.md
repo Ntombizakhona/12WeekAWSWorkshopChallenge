@@ -181,3 +181,14 @@ Introduction to Storage on AWS.
 ### **Practical**
 
 Creating an S3 Bucket & Uploading a File.
+
+# The Original
+
+**Blog:** [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona)
+<br>
+**Article Link:** [Storage](https://ntombizakhona.medium.com/12-week-aws-workshop-challenge-fe4fe0f30ebd)
+<br>
+Originally Published by [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona) 
+<br>
+**24 Janaury 2024**
+
