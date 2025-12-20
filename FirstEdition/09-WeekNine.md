@@ -255,3 +255,14 @@ Introduction to Event Driven Architecture.
 ### Practical
 
 Creating a simple Event Driven Architecture using AWS Lambda, Amazon SES and Amazon S3.
+
+# The Original
+
+**Blog:** [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona)
+<br>
+**Article Link:** [Event Driven Architecture](https://ntombizakhona.medium.com/12-weeks-aws-workshop-challenge-c3a131afe821)
+<br>
+Originally Published by [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona) 
+<br>
+**02 February 2024**
+
