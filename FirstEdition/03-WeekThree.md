@@ -1,3 +1,6 @@
+_Week Three_
+# Networking
+
 In traditional, on-premises data centers, networking consists of wires, lots of wires & cables. 
 A network engineer or technician has to configure cables, switches, routers and servers… but, thankfully, all of this is abstracted by AWS when you configure Networking in the Cloud. Almost anyone can provision networking solutions, by simply clicking away!
 
