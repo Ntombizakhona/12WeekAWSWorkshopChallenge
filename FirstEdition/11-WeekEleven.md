@@ -141,3 +141,14 @@ Introduction to AI Coding Companion and Amazon CodeWhisperer.
 ### Practical
 
 Configuring Amazon CodeWhisperer on Visual Studio Code.
+
+# The Original
+
+**Blog:** [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona)
+<br>
+**Article Link:** [AI Coding Companion](https://ntombizakhona.medium.com/12-weeks-aws-workshop-challenge-531567dec207)
+<br>
+Originally Published by [Ntombizakhona Mabaso](https://medium.com/@ntombizakhona) 
+<br>
+**07 February 2024**
+
